@@ -50,6 +50,32 @@
         </ul>
 
         <ul class="right-navbar">
+        
+        
+  <div id="time">
+<center><iframe src="http://free.timeanddate.com/clock/i5ixs7mg/n1428/tlgr17/fs12/fcddd/tct/pct/ftb/pl20/pr20/pt7/pb6/tt0/th1/tb2" frameborder="0" width="286" height="28" allowTransparency="true"></iframe>
+</center>      
+<style type="text/css">
+<!--        
+/*Time------------------------------------*/
+#time iframe {
+background-color : rgba(0, 0, 0, 0.5);
+border: 1px solid rgba(255,255,255,0.05);  
+border-radius : 30px;
+box-shadow : 0 1px rgba(255, 255, 255, 0.5), 0 3px rgba(0, 0, 0, 0.9) inset;
+height : 25px;
+line-height : 25px;
+margin:  0 auto 0 -100px;  
+padding : 0 0 2px 0;
+position: relative;  
+top: 5px;  
+width : 300px;
+}        
+-->
+</style>        
+        
+        
+        
             <li class="dropdown hoe-rheader-submenu hoe-header-profile">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                     <span>
